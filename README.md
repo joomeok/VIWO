@@ -1,3 +1,5 @@
 # VIWO (Visual-Inertial-Wheel Odometry)
 
-Loosely Coupled Visual-Inertial-Wheel Odometry (VIWO)
+A Proposal for Odometry of a Greenhouse Robot
+
+
