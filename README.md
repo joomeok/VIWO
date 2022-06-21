@@ -1,4 +1,7 @@
 # A Proposal for Odometry of a Greenhouse Robot
+Paper  
+ + [A Proposal for Odometry of a Greenhouse Robot.pdf](https://github.com/joomeok/VIWO/files/8946207/A.Proposal.for.Odometry.of.a.Greenhouse.Robot.pdf)
+
  Algorithm used
 + Visual Odometry - ORB SLAM2     
 + EKF - Robot_localization  
